@@ -5,3 +5,4 @@
 ## 2020_11_30 lengthOfLongestSubstring.py, findMedianSortedArrays.py
 ## 2020_12_01 longestPalindrome.py
 ## 2020_12_02 zigzagconversion.py
+## 2020-12_05 reverse_integer.py
