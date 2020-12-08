@@ -6,3 +6,4 @@
 ## 2020_12_01 longestPalindrome.py
 ## 2020_12_02 zigzagconversion.py
 ## 2020-12_05 reverse_integer.py, string_to_integer.py
+## 2020-12_08 isPalindrome.py
