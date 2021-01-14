@@ -11,3 +11,4 @@
 ## 2020-12_13 maxArea.py
 ## 2020-12_21 inttoroman.py
 ## 2020-12_24 romantoint.py longestCommonPrefix.py
+## 2020-01-14 3sum.py
